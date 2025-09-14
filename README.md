@@ -42,10 +42,12 @@
 ![demo](./Docs/demo.gif)  
 던전을 생성하고, 다음 스테이지의 던전을 계속해서 생성하는 데모
 
-![2025-09-14 18-39-59](https://github.com/user-attachments/assets/21fa035e-d509-4b3b-b5d5-c75bc0cefb9c)
+![2025-09-14 18-39-59](https://github.com/user-attachments/assets/97624c11-0275-4ff1-9dbf-8ae026fe1373)
+
 
 Gizmos로 생성 가능한 영역을 시각화하고, AddRoom으로 던전에 방을 추가하는 데모
 
-![2025-09-14 18-48-17](https://github.com/user-attachments/assets/4fd6ea97-662f-472f-be49-c36322306570)
+![2025-09-14 18-48-17](https://github.com/user-attachments/assets/ef9d6c11-eb1b-4ac4-ad42-66a9f09279a2)
+
 
 ---
